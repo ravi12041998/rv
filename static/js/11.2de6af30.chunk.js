@@ -1,0 +1,2 @@
+(this.webpackJsonprv=this.webpackJsonprv||[]).push([[11],{136:function(t,i,s){"use strict";s.r(i),i.default=s.p+"static/media/minimal-art.b3159882.md"}}]);
+//# sourceMappingURL=11.2de6af30.chunk.js.map
